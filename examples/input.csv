@@ -1,0 +1,10 @@
+pathway,feature,statistic
+IL-17 signaling,IL17A,1.8
+IL-17 signaling,TRAF3IP2,1.2
+IL-17 signaling,NFKB1,0.9
+TNF signaling,TNF,-1.4
+TNF signaling,NFKB1,-0.8
+Chemokine signaling,CXCL8,1.5
+Chemokine signaling,CXCR1,1.1
+Interferon response,STAT1,-1.2
+Interferon response,IRF1,-0.7

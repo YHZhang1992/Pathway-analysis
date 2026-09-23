@@ -1,0 +1,5 @@
+pathway,n_features,enrichment_score,direction,top_feature,top_statistic
+Chemokine signaling,2,1.3,positive,CXCL8,1.5
+IL-17 signaling,3,1.3,positive,IL17A,1.8
+TNF signaling,2,-1.1,negative,TNF,-1.4
+Interferon response,2,-0.95,negative,STAT1,-1.2

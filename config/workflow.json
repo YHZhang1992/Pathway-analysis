@@ -1,0 +1,7 @@
+{
+  "profile": "pathway_analysis",
+  "title": "Pathway & enrichment analysis",
+  "reference": "Control",
+  "active": "Treatment",
+  "seed": 20260903
+}

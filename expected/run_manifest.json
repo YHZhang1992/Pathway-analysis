@@ -1,0 +1,21 @@
+{
+  "workflow": "pathway_analysis",
+  "title": "Pathway & enrichment analysis",
+  "run_time_utc": "2026-09-03T00:00:00+00:00",
+  "python": "3.14.7 (tags/v3.14.7:823f032, Aug  5 2026, 10:51:32) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "input": "examples\\input.csv",
+  "input_sha256": "2c507416d435065e2ab175c406c74d964a4137b8d5c4ecbb94b086e069a543d3",
+  "config": "config\\workflow.json",
+  "config_sha256": "9bbaa683a57d5de00d04556b1d9647fb1c68656d3dd27fdc50387d2b9ff1e386",
+  "result": "expected\\results.csv",
+  "result_sha256": "58eb754b3d0f92a1329bbdb7738ebdd375595f64e891c53f36a2f7ba36377138",
+  "row_count": 4,
+  "palette": {
+    "reference": "#1F77B4",
+    "active": "#D62728",
+    "positive": "#009E73",
+    "warning": "#D55E00",
+    "neutral": "#9AA5AA"
+  }
+}
